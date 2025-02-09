@@ -81,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Prahasit/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0815-champagne-tower](https://github.com/Prahasit/Leetcode/tree/master/0815-champagne-tower) |
 <!---LeetCode Topics End-->
