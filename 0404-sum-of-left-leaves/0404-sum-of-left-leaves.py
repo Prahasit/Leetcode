@@ -1,33 +1,29 @@
+from typing import Optional
+
 # Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
+class TreeNode:
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
+
 class Solution:
     def sumOfLeftLeaves(self, root: Optional[TreeNode]) -> int:
         left_sum = 0
-        def dfs(root):
+
+        def dfs(node, is_left):
             nonlocal left_sum
-            if root is None:
-                return 0
+            if node is None:
+                return
 
-            if root.left is None and root.right is None:
-                return root.val
+            # If it's a left leaf, add its value
+            if is_left and node.left is None and node.right is None:
+                left_sum += node.val
+                return
 
-            temp = dfs(root.left)
-            left_sum += temp
-            dfs(root.right)
+            # Recursively process left and right children
+            dfs(node.left, True)
+            dfs(node.right, False)
 
-            return 0
-            
-        dfs(root)
+        dfs(root, False)
         return left_sum
-
-
-
-
-
-        
-
-        
