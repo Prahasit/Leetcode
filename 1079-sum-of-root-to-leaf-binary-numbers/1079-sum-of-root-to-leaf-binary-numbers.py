@@ -6,14 +6,16 @@
 #         self.right = right
 class Solution:
     def sumRootToLeaf(self, root: Optional[TreeNode]) -> int:
-        def dfs(node, num):
+        result = []
+        def dfs(node, bin_str):
             if node is None:
-                return 0
-            num = (num << 1) + node.val
+                return
             if node.left is None and node.right is None:
-                return num
-            
-            return dfs(node.left, num) + dfs(node.right, num)
+                bin_str = bin_str + str(node.val)
+                result.append(int(bin_str, 2)) # converting binary string to decimal
+            dfs(node.left, bin_str + str(node.val))
+            dfs(node.right, bin_str + str(node.val))
 
-        return dfs(root, 0)
+        dfs(root, "")
+        return sum(result)
         
