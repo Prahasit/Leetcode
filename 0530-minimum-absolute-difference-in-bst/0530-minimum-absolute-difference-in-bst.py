@@ -7,23 +7,21 @@
 class Solution:
     def getMinimumDifference(self, root: Optional[TreeNode]) -> int:
         #as inorder of BST is in sorted order
-        min_val = float('inf')
-        result = []
-        def dfs(node):
+        min_dif = float("inf")
+        prev = float("inf")
 
-            if node is None:
-                return
+        # search the BST using inorder traversal
+        def traverse(node): 
+            nonlocal min_dif, prev
+            if not node: 
+                return 
+            traverse(node.left)
+            min_dif = min(min_dif, abs(prev - node.val))
+            prev = node.val
+            traverse(node.right)
 
-            dfs(node.left)
-            result.append(node.val)
-            dfs(node.right)
-
-        dfs(root)
-
-        for i in range(1, len(result)):
-            min_val = min(min_val, result[i] - result[i - 1])
-
-        return min_val
+        traverse(root)
+        return min_dif
 
 
         
