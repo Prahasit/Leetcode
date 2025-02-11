@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Prahasit/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Prahasit/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Prahasit/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0854-making-a-large-island](https://github.com/Prahasit/Leetcode/tree/master/0854-making-a-large-island) |
 | [0971-shortest-bridge](https://github.com/Prahasit/Leetcode/tree/master/0971-shortest-bridge) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Prahasit/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Prahasit/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Prahasit/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Prahasit/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Prahasit/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
@@ -144,4 +146,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Prahasit/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Prahasit/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
