@@ -6,38 +6,21 @@
 #         self.right = right
 class Solution:
     def generateTrees(self, n: int) -> List[Optional[TreeNode]]:
-        if n == 0:
-            return []
-        memo = {}
-        def generate(start, end):
-
-            if (start, end) in memo:
-                return memo[(start, end)]
-
-            all_trees = []
-            if start > end:
-                all_trees.append(None)
-                return all_trees
-
-            for i in range(start, end + 1):
-                # i is the root
-                left_tree = generate(start, i - 1)
-                right_tree = generate(i + 1, end)
-
-
-                for left in left_tree:
-                    for right in right_tree:
-                        root = TreeNode(i, left, right)
-                        all_trees.append(root)
-                        
-            memo[(start, end)] = all_trees
-            return all_trees
-
-        return generate(1, n)
-
-
-
-
-
-
         
+        dp = [[[] for _ in range(n + 1)] for _ in range(n + 1)]
+        for i in range(1, n + 1):
+            dp[i][i] = [TreeNode(i)]
+
+        for numberOfNodes in range(2, n + 1):
+            for start in range(1, n - numberOfNodes + 2):
+                end = start + numberOfNodes - 1
+                for i in range(start, end + 1):
+                    left_subtrees = dp[start][i - 1] if i != start else [None]
+                    right_subtrees = dp[i + 1][end] if i != end else [None]
+
+                    for left in left_subtrees:
+                        for right in right_subtrees:
+                            root = TreeNode(i, left, right)
+                            dp[start][end].append(root)
+
+        return dp[1][n]
