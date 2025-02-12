@@ -6,16 +6,20 @@
 #         self.right = right
 class Solution:
     def isUnivalTree(self, root: Optional[TreeNode]) -> bool:
-        result = []
+        unival =True
+        prev = None
         def dfs(node):
+            nonlocal prev, unival
             if node is None:
                 return
             dfs(node.left)
-            result.append(node.val)
+            if prev is not None and prev != node.val:
+                unival = False
+            prev = node.val #updating prev to current node value if it is None
             dfs(node.right)
+        
+    
 
         dfs(root)
-        for i in range(1, len(result)):
-            if result[i] != result[i - 1]:
-                return False
-        return True
+        return unival
+        
