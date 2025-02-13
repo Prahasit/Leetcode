@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Prahasit/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1040-maximum-binary-tree-ii](https://github.com/Prahasit/Leetcode/tree/master/1040-maximum-binary-tree-ii) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Prahasit/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prahasit/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Prahasit/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1040-maximum-binary-tree-ii](https://github.com/Prahasit/Leetcode/tree/master/1040-maximum-binary-tree-ii) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Prahasit/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prahasit/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
