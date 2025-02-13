@@ -12,7 +12,9 @@ class Solution:
                 return TreeNode(val)
 
             if val > node.val:
-                return TreeNode(val, left = node)
+                new_node = TreeNode(val)
+                new_node.left = node
+                return new_node
             node.right = dfs(node.right)
 
             return node
