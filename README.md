@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Prahasit/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Prahasit/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Prahasit/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Prahasit/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Prahasit/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Prahasit/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/Prahasit/Leetcode/tree/master/0563-binary-tree-tilt) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Prahasit/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Prahasit/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/Prahasit/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Prahasit/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Prahasit/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0623-add-one-row-to-tree](https://github.com/Prahasit/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Prahasit/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Prahasit/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/Prahasit/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Prahasit/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Sorting
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Prahasit/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [1708-design-parking-system](https://github.com/Prahasit/Leetcode/tree/master/1708-design-parking-system) |
 ## Simulation
 |  |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Prahasit/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Prahasit/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Prahasit/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Prahasit/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Prahasit/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Prahasit/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/Prahasit/Leetcode/tree/master/0563-binary-tree-tilt) |
@@ -206,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Prahasit/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Prahasit/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Prahasit/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Prahasit/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Prahasit/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Prahasit/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/Prahasit/Leetcode/tree/master/0563-binary-tree-tilt) |
@@ -244,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Prahasit/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Prahasit/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Prahasit/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Prahasit/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0933-increasing-order-search-tree](https://github.com/Prahasit/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Prahasit/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
