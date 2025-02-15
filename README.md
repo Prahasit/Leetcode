@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Prahasit/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1558-course-schedule-iv](https://github.com/Prahasit/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Prahasit/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prahasit/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/Prahasit/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Prahasit/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1558-course-schedule-iv](https://github.com/Prahasit/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Prahasit/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1731-even-odd-tree](https://github.com/Prahasit/Leetcode/tree/master/1731-even-odd-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Prahasit/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -289,4 +291,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0654-maximum-binary-tree) |
+## Graph
+|  |
+| ------- |
+| [1558-course-schedule-iv](https://github.com/Prahasit/Leetcode/tree/master/1558-course-schedule-iv) |
+## Topological Sort
+|  |
+| ------- |
+| [1558-course-schedule-iv](https://github.com/Prahasit/Leetcode/tree/master/1558-course-schedule-iv) |
 <!---LeetCode Topics End-->
