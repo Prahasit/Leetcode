@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/Prahasit/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Prahasit/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Prahasit/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Prahasit/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prahasit/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/Prahasit/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Prahasit/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Prahasit/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1558-course-schedule-iv](https://github.com/Prahasit/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Prahasit/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -299,12 +301,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-loud-and-rich](https://github.com/Prahasit/Leetcode/tree/master/0881-loud-and-rich) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Prahasit/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/Prahasit/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2176-parallel-courses-iii](https://github.com/Prahasit/Leetcode/tree/master/2176-parallel-courses-iii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0881-loud-and-rich](https://github.com/Prahasit/Leetcode/tree/master/0881-loud-and-rich) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Prahasit/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/Prahasit/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2176-parallel-courses-iii](https://github.com/Prahasit/Leetcode/tree/master/2176-parallel-courses-iii) |
 <!---LeetCode Topics End-->
