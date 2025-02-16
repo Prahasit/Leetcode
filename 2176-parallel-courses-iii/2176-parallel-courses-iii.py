@@ -2,20 +2,27 @@ class Solution:
     def minimumTime(self, n: int, relations: List[List[int]], time: List[int]) -> int:
 
         adj_list = defaultdict(list)
+        indegree = [0] * n
+        max_time = [0] * n
         for src, dst in relations:
             adj_list[src - 1].append(dst - 1)
-
-        @lru_cache(None)
-        def dfs(node):
-            if not adj_list[node]:
-                return time[node]
-            temp = 0
+            indegree[dst - 1] += 1
+        
+        q = deque()
+        for node in range(n):
+            if indegree[node] == 0:
+                q.append(node)
+                max_time[node] = time[node]
+        while q:
+            node = q.popleft()
             for nei in adj_list[node]:
-                temp = max(temp, dfs(nei))
+                max_time[nei] = max(max_time[nei], max_time[node] + time[nei])
 
-            return temp + time[node] #for every node the answer is the time of that node + the neighbors time
-        res = 0
-        for i in range(n):
-            res = max(res, dfs(i))
+                indegree[nei] -= 1
+                if indegree[nei] == 0:
+                    q.append(nei)
 
-        return res
+        return max(max_time)
+
+
+        
