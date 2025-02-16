@@ -5,15 +5,17 @@ class Solution:
         for src, dst in edges:
             adj_list[src].append(dst)
             adj_list[dst].append(src)
-        def dfs(node):
+        
+        q = deque()
+        q.append(source)
+        visit.add(source)
+        while q:
+            node = q.popleft()
             if node == destination:
                 return True
-            visit.add(node)
             for nei in adj_list[node]:
-                if nei not in visit:  
-                    if dfs(nei):
-                        return True
-            return False
-
-        return dfs(source)
+                if nei not in visit:
+                    visit.add(nei)
+                    q.append(nei)
+        return False
         
