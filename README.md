@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prahasit/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0971-shortest-bridge](https://github.com/Prahasit/Leetcode/tree/master/0971-shortest-bridge) |
 | [1104-coloring-a-border](https://github.com/Prahasit/Leetcode/tree/master/1104-coloring-a-border) |
+| [1396-count-servers-that-communicate](https://github.com/Prahasit/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Prahasit/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Prahasit/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2176-parallel-courses-iii](https://github.com/Prahasit/Leetcode/tree/master/2176-parallel-courses-iii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prahasit/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/Prahasit/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1396-count-servers-that-communicate](https://github.com/Prahasit/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Prahasit/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Prahasit/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prahasit/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/Prahasit/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1396-count-servers-that-communicate](https://github.com/Prahasit/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Prahasit/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Prahasit/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1558-course-schedule-iv](https://github.com/Prahasit/Leetcode/tree/master/1558-course-schedule-iv) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/Prahasit/Leetcode/tree/master/0854-making-a-large-island) |
+| [1396-count-servers-that-communicate](https://github.com/Prahasit/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Prahasit/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Prahasit/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
@@ -108,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Prahasit/Leetcode/tree/master/0854-making-a-large-island) |
 | [0971-shortest-bridge](https://github.com/Prahasit/Leetcode/tree/master/0971-shortest-bridge) |
 | [1104-coloring-a-border](https://github.com/Prahasit/Leetcode/tree/master/1104-coloring-a-border) |
+| [1396-count-servers-that-communicate](https://github.com/Prahasit/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Prahasit/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Hash Table
 |  |
@@ -146,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Prahasit/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1396-count-servers-that-communicate](https://github.com/Prahasit/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1708-design-parking-system](https://github.com/Prahasit/Leetcode/tree/master/1708-design-parking-system) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Prahasit/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Greedy
