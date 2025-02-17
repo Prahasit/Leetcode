@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/Prahasit/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Prahasit/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Prahasit/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/Prahasit/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1731-even-odd-tree](https://github.com/Prahasit/Leetcode/tree/master/1731-even-odd-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Prahasit/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Prahasit/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Union Find
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Prahasit/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1731-even-odd-tree](https://github.com/Prahasit/Leetcode/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Prahasit/Leetcode/tree/master/2384-root-equals-sum-of-children) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Prahasit/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Prahasit/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1731-even-odd-tree](https://github.com/Prahasit/Leetcode/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Prahasit/Leetcode/tree/master/2384-root-equals-sum-of-children) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Prahasit/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
