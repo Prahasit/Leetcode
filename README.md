@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/Prahasit/Leetcode/tree/master/0971-shortest-bridge) |
 | [1104-coloring-a-border](https://github.com/Prahasit/Leetcode/tree/master/1104-coloring-a-border) |
 | [1396-count-servers-that-communicate](https://github.com/Prahasit/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Prahasit/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Prahasit/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Prahasit/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2176-parallel-courses-iii](https://github.com/Prahasit/Leetcode/tree/master/2176-parallel-courses-iii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Prahasit/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Prahasit/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Prahasit/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Prahasit/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3779-eat-pizzas](https://github.com/Prahasit/Leetcode/tree/master/3779-eat-pizzas) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Prahasit/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Prahasit/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
