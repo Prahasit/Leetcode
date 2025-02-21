@@ -1,19 +1,11 @@
 class Solution:
     def frequencySort(self, s: str) -> str:
-        result = []
-        freq = defaultdict(int)
-        for i in s:
-            freq[i] += 1
-
-        freq_pairs = sorted(freq.items(), key = lambda x: x[1], reverse =True)
-
-        for char, count in freq_pairs:
-            result.append(char * count)
-
-        return ''.join(result)
-
-
-        
-        
-    
-        
+        #using max_heap
+        freq = Counter(s)
+        pq = [(-f, char) for char, f in freq.items()]
+        heapq.heapify(pq)
+        result = ''
+        while pq:
+            f, char = heapq.heappop(pq)
+            result += char * -f
+        return result
