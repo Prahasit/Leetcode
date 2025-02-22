@@ -2,18 +2,12 @@ class Solution:
     def maxSubsequence(self, nums: List[int], k: int) -> List[int]:
         # to optimize the Tc, need to use heaps 
         #we need to sort the array while maintaining the index
-        order = {} #index, value
-        pq = [(-val, idx) for idx, val in enumerate(nums)]
-        heapq.heapify(pq)
-
-        while k > 0:
-            val, idx = heapq.heappop(pq)
-            order[idx] = -val
+        res = [""] * len(nums)
+        nums = [(-n, i) for i, n in enumerate(nums)]
+        heapq.heapify(nums)
+        while k:
+            val, i = heapq.heappop(nums)
+            res[i] = -val
             k -= 1
-        
-        res = []
-        
-        for key in sorted(order.keys()):
-            res.append(order[key])
-        
+        res = [val for val in res if val != ""]
         return res
