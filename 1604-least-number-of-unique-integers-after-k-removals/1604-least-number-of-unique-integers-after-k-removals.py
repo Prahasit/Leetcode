@@ -1,15 +1,13 @@
 class Solution:
     def findLeastNumOfUniqueInts(self, arr: List[int], k: int) -> int:
-        #least no of unique integers means first remove the least frequency elements so there will be less frequent elemts
         freq = Counter(arr)
         pq = [(count, num) for num, count in freq.items()]
-        heapq.heapify(pq)
+        heapq.heapify(pq)  # Min-heap based on frequency
 
-        while k > 0:
+        while k > 0 and pq:
             count, num = heapq.heappop(pq)
-            count = count - 1
-            if count > 0:
-                heapq.heappush(pq, (count, num))
-            k-= 1
+            k -= count  # Remove `count` occurrences from k
+            if k < 0:  
+                return len(pq) + 1  # If `k` over-deletes, count the current element
 
         return len(pq)
