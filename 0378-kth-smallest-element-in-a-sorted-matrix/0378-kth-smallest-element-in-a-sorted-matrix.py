@@ -1,12 +1,14 @@
 class Solution:
     def kthSmallest(self, matrix: List[List[int]], k: int) -> int:
-        # as rows and cols values are in sorted order
-        #first traverse row 0 then row 1 etc...
-        n = len(matrix)
-        res = []
-        for i in range(n):
-            for j in range(n):
-                res.append(matrix[i][j])
+        pq = []
+        for row in matrix:
+            for num in row:
+                heapq.heappush(pq, -num)
+                if len(pq) > k:
+                    heapq.heappop(pq)
         
-        res.sort()
-        return res[k - 1]
+
+        return -heapq.heappop(pq)
+            
+
+        
