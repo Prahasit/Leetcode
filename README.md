@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-coloring-a-border](https://github.com/Prahasit/Leetcode/tree/master/1104-coloring-a-border) |
 | [1184-car-pooling](https://github.com/Prahasit/Leetcode/tree/master/1184-car-pooling) |
 | [1396-count-servers-that-communicate](https://github.com/Prahasit/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prahasit/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Prahasit/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Prahasit/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Prahasit/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/Prahasit/Leetcode/tree/master/0971-shortest-bridge) |
 | [1104-coloring-a-border](https://github.com/Prahasit/Leetcode/tree/master/1104-coloring-a-border) |
 | [1396-count-servers-that-communicate](https://github.com/Prahasit/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prahasit/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Prahasit/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Hash Table
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/Prahasit/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1184-car-pooling](https://github.com/Prahasit/Leetcode/tree/master/1184-car-pooling) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Prahasit/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prahasit/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Prahasit/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Prahasit/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Prahasit/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Prahasit/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Prahasit/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1184-car-pooling](https://github.com/Prahasit/Leetcode/tree/master/1184-car-pooling) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prahasit/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Prahasit/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1955-seat-reservation-manager](https://github.com/Prahasit/Leetcode/tree/master/1955-seat-reservation-manager) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Prahasit/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Prahasit/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Prahasit/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prahasit/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/Prahasit/Leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
