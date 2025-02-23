@@ -1,12 +1,16 @@
 class SeatManager:
-
+    #without using pre- initialization
     def __init__(self, n: int):
-        self.seats = [i for i in range(1, n + 1)]
-        heapq.heapify(self.seats)
+        self.marker = 1
+        self.seats = []
         
-
     def reserve(self) -> int:
-        return heapq.heappop(self.seats)
+        if len(self.seats) > 0:
+            return heapq.heappop(self.seats)
+        
+        seat_number = self.marker
+        self.marker += 1
+        return seat_number
 
         
 
