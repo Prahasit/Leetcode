@@ -2,14 +2,15 @@ class Solution:
     def minSetSize(self, arr: List[int]) -> int:
         count = 0
         freq = Counter(arr)
-        temp = sorted([val for num, val in freq.items()], reverse = True)
-        cur = 0
+        heap = [-val for num,val in freq.items()]
+        heapq.heapify(heap)
         i = 0
+        cur = 0
 
         while cur < len(arr) // 2:
-            cur += temp[i]
+            cur += -heapq.heappop(heap)
             count += 1
-            i += 1
+            
         return count
 
 
