@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/Prahasit/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1184-car-pooling](https://github.com/Prahasit/Leetcode/tree/master/1184-car-pooling) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Prahasit/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1955-seat-reservation-manager](https://github.com/Prahasit/Leetcode/tree/master/1955-seat-reservation-manager) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Prahasit/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prahasit/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prahasit/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Prahasit/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [1708-design-parking-system](https://github.com/Prahasit/Leetcode/tree/master/1708-design-parking-system) |
+| [1955-seat-reservation-manager](https://github.com/Prahasit/Leetcode/tree/master/1955-seat-reservation-manager) |
 ## Simulation
 |  |
 | ------- |
