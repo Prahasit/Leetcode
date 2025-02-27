@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prahasit/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Prahasit/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/Prahasit/Leetcode/tree/master/0200-number-of-islands) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Prahasit/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prahasit/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prahasit/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Prahasit/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/Prahasit/Leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prahasit/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0854-making-a-large-island](https://github.com/Prahasit/Leetcode/tree/master/0854-making-a-large-island) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prahasit/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Prahasit/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0861-flipping-an-image](https://github.com/Prahasit/Leetcode/tree/master/0861-flipping-an-image) |
 | [1184-car-pooling](https://github.com/Prahasit/Leetcode/tree/master/1184-car-pooling) |
 | [1708-design-parking-system](https://github.com/Prahasit/Leetcode/tree/master/1708-design-parking-system) |
