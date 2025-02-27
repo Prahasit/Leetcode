@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Prahasit/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2176-parallel-courses-iii](https://github.com/Prahasit/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prahasit/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2329-maximum-product-after-k-increments](https://github.com/Prahasit/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prahasit/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Prahasit/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Prahasit/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2161-stock-price-fluctuation](https://github.com/Prahasit/Leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prahasit/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2329-maximum-product-after-k-increments](https://github.com/Prahasit/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prahasit/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Prahasit/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/Prahasit/Leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Prahasit/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1788-stone-game-vi](https://github.com/Prahasit/Leetcode/tree/master/1788-stone-game-vi) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Prahasit/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
+| [2329-maximum-product-after-k-increments](https://github.com/Prahasit/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Prahasit/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/Prahasit/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Prahasit/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
