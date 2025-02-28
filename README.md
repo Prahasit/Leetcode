@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Prahasit/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0257-binary-tree-paths](https://github.com/Prahasit/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Prahasit/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/Prahasit/Leetcode/tree/master/0451-sort-characters-by-frequency) |
