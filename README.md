@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Prahasit/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prahasit/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prahasit/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0491-non-decreasing-subsequences](https://github.com/Prahasit/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0506-relative-ranks](https://github.com/Prahasit/Leetcode/tree/master/0506-relative-ranks) |
 | [0654-maximum-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/Prahasit/Leetcode/tree/master/0690-employee-importance) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Prahasit/Leetcode/tree/master/0041-first-missing-positive) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prahasit/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Prahasit/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0491-non-decreasing-subsequences](https://github.com/Prahasit/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0508-most-frequent-subtree-sum](https://github.com/Prahasit/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0690-employee-importance](https://github.com/Prahasit/Leetcode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/Prahasit/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Prahasit/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/Prahasit/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0491-non-decreasing-subsequences](https://github.com/Prahasit/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0813-all-paths-from-source-to-target](https://github.com/Prahasit/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Prahasit/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Tree
@@ -500,5 +503,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/Prahasit/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0861-flipping-an-image](https://github.com/Prahasit/Leetcode/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
