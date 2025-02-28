@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Prahasit/Leetcode/tree/master/0016-3sum-closest) |
 | [0054-spiral-matrix](https://github.com/Prahasit/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Prahasit/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/Prahasit/Leetcode/tree/master/0200-number-of-islands) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Prahasit/Leetcode/tree/master/0016-3sum-closest) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prahasit/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Prahasit/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Prahasit/Leetcode/tree/master/0506-relative-ranks) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Prahasit/Leetcode/tree/master/0016-3sum-closest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Prahasit/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0861-flipping-an-image](https://github.com/Prahasit/Leetcode/tree/master/0861-flipping-an-image) |
 ## Trie
