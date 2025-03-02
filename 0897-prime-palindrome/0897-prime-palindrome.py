@@ -14,12 +14,15 @@ class Solution:
                 n //= 10  
 
             return original == reversed_num
-
+        
+        if 8 <= n <= 11:  # Special case where 11 is the smallest prime palindrome >= 8
+            return 11
+        
         i = n
         while True:
             if prime(i) and palindrome(i):
                 return i
             i += 1
 
-            if 10**7 < i < 10**8:
-                i = 10**8
+            if i > 10 and len(str(i)) % 2 == 0:  # Skip even-length numbers
+                i = 10 ** len(str(i))  # Jump to the next length category
