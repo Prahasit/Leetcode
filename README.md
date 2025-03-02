@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Prahasit/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0365-water-and-jug-problem](https://github.com/Prahasit/Leetcode/tree/master/0365-water-and-jug-problem) |
+| [0897-prime-palindrome](https://github.com/Prahasit/Leetcode/tree/master/0897-prime-palindrome) |
 | [1788-stone-game-vi](https://github.com/Prahasit/Leetcode/tree/master/1788-stone-game-vi) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Prahasit/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prahasit/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -524,4 +525,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prahasit/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [0897-prime-palindrome](https://github.com/Prahasit/Leetcode/tree/master/0897-prime-palindrome) |
 <!---LeetCode Topics End-->
