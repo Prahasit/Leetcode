@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/Prahasit/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Prahasit/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Prahasit/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Prahasit/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Prahasit/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/Prahasit/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Prahasit/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2176-parallel-courses-iii](https://github.com/Prahasit/Leetcode/tree/master/2176-parallel-courses-iii) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Prahasit/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/Prahasit/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/Prahasit/Leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Topological Sort
