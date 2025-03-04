@@ -1,23 +1,22 @@
 class Solution:
     def maxProbability(self, n: int, edges: List[List[int]], succProb: List[float], start_node: int, end_node: int) -> float:
-        adj_list = defaultdict(list)
+        adj = [[] for _ in range(n)]
         for i in range(len(edges)):
             src, dst = edges[i]
-            adj_list[src].append((dst, succProb[i]))
-            adj_list[dst].append((src, succProb[i]))
+            adj[src].append((dst, succProb[i]))
+            adj[dst].append((src, succProb[i]))
 
-        max_heap = [(-1, start_node)] # -1 as its minheap so -1 * 1 = -1
-        visit = set()
-        while max_heap:
-            prob, node = heapq.heappop(max_heap)
-            visit.add(node)
+        maxProb = [0.0] * n
+        maxProb[start_node] = 1.0
+        q = deque([start_node])
 
-            if node == end_node:
-                return -prob
+        while q:
+            node = q.popleft()
 
-            for nei, edge_prob in adj_list[node]:
-                if nei not in visit:
-                    heapq.heappush(max_heap, (prob * edge_prob, nei))
-        return 0
+            for nei, edge_prob in adj[node]:
+                new_prob = maxProb[node] * edge_prob
+                if new_prob > maxProb[nei]:  
+                    maxProb[nei] = new_prob
+                    q.append(nei)
 
-        
+        return maxProb[end_node]
