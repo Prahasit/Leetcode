@@ -3,22 +3,25 @@ class Solution:
         #it is similar to MST after finding the manhattan distance
         n = len(points)
         total_dist = 0
-        visit = set()
-        min_heap = [(0, 0)] # distance, index
-        while len(visit) < n:
-            dist, curr = heapq.heappop(min_heap)
+        visit = [False] * n
+        dist = [10000000] * n
+        edges, node = 0, 0
 
-            if curr in visit:
-                continue
-            
-            visit.add(curr)
-            total_dist += dist
+        while edges < n - 1:
+            visit[node] = True
+            nextNode = - 1 #for every loop initilize it to -1
+            for i in range(n):
+                if visit[i]:
+                    continue
+                cur_dist = abs(points[i][0] - points[node][0]) + abs(points[i][1] - points[node][1])
+                dist[i] = min(dist[i], cur_dist)
 
-            for nei in range(n):
-                if nei not in visit:
-                    x1, y1 = points[curr]
-                    x2, y2 = points[nei]
-                    distance = abs(x1 - x2) + abs(y1 - y2)
-                    heapq.heappush(min_heap, (distance, nei))
-            
+                if nextNode == - 1 or dist[i] < dist[nextNode]:
+                    nextNode = i
+                
+            # after loop for every index we get the minimum dist and move the node to that element
+            total_dist += dist[nextNode]
+            node = nextNode # as this index dist is minimim update the node to this node and find from here
+            edges += 1
+        
         return total_dist
