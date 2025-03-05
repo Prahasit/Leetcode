@@ -1,19 +1,17 @@
 class Solution:
     def findItinerary(self, tickets: List[List[str]]) -> List[str]:
-        adj_list = defaultdict(list)
-        tickets.sort(reverse =True)
-        for src, dst in tickets:
-            adj_list[src].append(dst)
-
-        def dfs(src):
-            while adj_list[src]:
-                dst = adj_list[src].pop()
-                dfs(dst)
-            res.append(src)
-
+        adj = defaultdict(list)
+        for src, dst in sorted(tickets)[::-1]:
+            adj[src].append(dst)
+            
+        stack = ["JFK"]
         res = []
-        dfs("JFK")
-        return res[::-1]
-
-
         
+        while stack:
+            curr = stack[-1]
+            if not adj[curr]:
+                res.append(stack.pop())
+            else:
+                stack.append(adj[curr].pop())
+                
+        return res[::-1]
