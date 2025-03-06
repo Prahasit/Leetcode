@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/Prahasit/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Prahasit/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1788-stone-game-vi](https://github.com/Prahasit/Leetcode/tree/master/1788-stone-game-vi) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Prahasit/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Prahasit/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Prahasit/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prahasit/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/Prahasit/Leetcode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Prahasit/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2176-parallel-courses-iii](https://github.com/Prahasit/Leetcode/tree/master/2176-parallel-courses-iii) |
 ## Backtracking
 |  |
