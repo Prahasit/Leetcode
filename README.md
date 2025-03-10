@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-parallel-courses-iii](https://github.com/Prahasit/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2262-solving-questions-with-brainpower](https://github.com/Prahasit/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Prahasit/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Prahasit/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Backtracking
 |  |
 | ------- |
