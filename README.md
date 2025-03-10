@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Prahasit/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Prahasit/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0343-integer-break](https://github.com/Prahasit/Leetcode/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/Prahasit/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0815-champagne-tower](https://github.com/Prahasit/Leetcode/tree/master/0815-champagne-tower) |
 | [1025-minimum-cost-for-tickets](https://github.com/Prahasit/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Prahasit/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0343-integer-break](https://github.com/Prahasit/Leetcode/tree/master/0343-integer-break) |
 | [0365-water-and-jug-problem](https://github.com/Prahasit/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Prahasit/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0897-prime-palindrome](https://github.com/Prahasit/Leetcode/tree/master/0897-prime-palindrome) |
