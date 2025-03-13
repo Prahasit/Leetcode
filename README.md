@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Prahasit/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Prahasit/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Prahasit/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Prahasit/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/Prahasit/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/Prahasit/Leetcode/tree/master/0332-reconstruct-itinerary) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Prahasit/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Prahasit/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Prahasit/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Prahasit/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0365-water-and-jug-problem](https://github.com/Prahasit/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/Prahasit/Leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Prahasit/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Prahasit/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Prahasit/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Prahasit/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Prahasit/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Prahasit/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Prahasit/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Prahasit/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Prahasit/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Prahasit/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Prahasit/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Prahasit/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
