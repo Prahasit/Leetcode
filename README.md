@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Prahasit/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0206-reverse-linked-list](https://github.com/Prahasit/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -654,4 +655,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1761-count-sorted-vowel-strings](https://github.com/Prahasit/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [2187-vowels-of-all-substrings](https://github.com/Prahasit/Leetcode/tree/master/2187-vowels-of-all-substrings) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Prahasit/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
