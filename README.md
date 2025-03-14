@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Prahasit/Leetcode/tree/master/0100-same-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Prahasit/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Prahasit/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Prahasit/Leetcode/tree/master/0200-number-of-islands) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Prahasit/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prahasit/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Prahasit/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Prahasit/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Prahasit/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Prahasit/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Prahasit/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prahasit/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Prahasit/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Prahasit/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Prahasit/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Prahasit/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Prahasit/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prahasit/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Prahasit/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Prahasit/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
