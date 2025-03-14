@@ -2,22 +2,26 @@ class Solution:
     def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
 
         def solve(r, c):
-            if r < 0 or c < 0 or r >= m or c >= n or grid[r][c] == 0:
-                return 0
-            if (r, c) in visit:
-                return 0
+            q = deque()
+            q.append((r,c))
             visit.add((r,c))
+            length = 0
+            while q:
+                row, col = q.popleft()
+                length += 1
+                for dr, dc in directions:
+                    new_r, new_c = dr + row, dc + col
+                    if 0 <= new_r < m and 0 <= new_c < n and grid[new_r][new_c] == 1:
+                        if (new_r, new_c) not in visit:
+                            q.append((new_r, new_c))
+                            visit.add((new_r, new_c))
+                            
+            return length
 
-            length = 1
-            up = solve(r - 1, c)
-            down = solve(r + 1, c)
-            left = solve(r, c - 1)
-            right = solve(r, c + 1)
-
-            return length + up + down + left + right
 
         m, n = len(grid), len(grid[0])
         visit = set()
+        directions = [[0,1],[0, - 1], [1, 0], [-1, 0]]
         res = 0
         for i in range(m):
             for j in range(n):
