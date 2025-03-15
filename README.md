@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Prahasit/Leetcode/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Prahasit/Leetcode/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/Prahasit/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Prahasit/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Prahasit/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Prahasit/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prahasit/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Prahasit/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Prahasit/Leetcode/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/Prahasit/Leetcode/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/Prahasit/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Prahasit/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Prahasit/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/Prahasit/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Prahasit/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Prahasit/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Prahasit/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Prahasit/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Prahasit/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prahasit/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Prahasit/Leetcode/tree/master/0451-sort-characters-by-frequency) |
