@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Prahasit/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Prahasit/Leetcode/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/Prahasit/Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Prahasit/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Prahasit/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Prahasit/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Prahasit/Leetcode/tree/master/0054-spiral-matrix) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prahasit/Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Prahasit/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/Prahasit/Leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Prahasit/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Prahasit/Leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prahasit/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Prahasit/Leetcode/tree/master/0071-simplify-path) |
 | [0654-maximum-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Prahasit/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prahasit/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0654-maximum-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0654-maximum-binary-tree) |
 ## Graph
 |  |
@@ -722,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prahasit/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Prahasit/Leetcode/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/Prahasit/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Prahasit/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prahasit/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Prahasit/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
