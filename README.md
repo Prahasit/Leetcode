@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Prahasit/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Prahasit/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prahasit/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Prahasit/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Prahasit/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/Prahasit/Leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -760,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/Prahasit/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0861-flipping-an-image](https://github.com/Prahasit/Leetcode/tree/master/0861-flipping-an-image) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prahasit/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Prahasit/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Enumeration
 |  |
 | ------- |
