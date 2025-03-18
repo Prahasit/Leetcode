@@ -6,37 +6,41 @@
 #         self.right = right
 class Solution:
     def isEvenOddTree(self, root: Optional[TreeNode]) -> bool:
-        res = []
+        if root.val % 2 == 0:
+            return False
         q = deque()
-        q.append(root)
+        q.append((root, 0))
+        result = []
         while q:
-            level = []
+            l = []
             for _ in range(len(q)):
-                node = q.popleft()
+                node, level = q.popleft()
 
-                level.append(node.val)
+                if level % 2 == 0:
+                    if node.val % 2 == 1:
+                        if len(l) == 0 or node.val > l[-1]:
+                            l.append(node.val)
+                        else:
+                            return False
+                    else:
+                        return False
+
+                else:
+                    if node.val %2 ==0:
+                        if len(l) == 0 or node.val < l[-1] and node.val % 2== 0:
+                            l.append(node.val)
+                        else:
+                            return False
+                    else:
+                        return False
                 if node.left:
-                    q.append(node.left)
+                    q.append((node.left, level + 1))
                 if node.right:
-                    q.append(node.right)
-
-            if len(res) % 2 == 0:
-                for i in range(len(level)):
-                    if level[i - 1] % 2 == 0:
-                        return False
-                    if i > 0 and level[i] <= level[i - 1]:
-                        return False
-                res.append(level)
+                    q.append((node.right, level + 1))
                 
-            else:
-                for i in range(len(level)):
-                    if level[i - 1] % 2 != 0:
-                        return False
-                    if  i > 0 and level[i] >= level[i - 1]:
-                        return False
-                res.append(level)
-            
-        return True
+            result.append(l)
 
+        return True
+                         
 
         
