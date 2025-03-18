@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Prahasit/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Prahasit/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Prahasit/Leetcode/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Prahasit/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Prahasit/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Prahasit/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Prahasit/Leetcode/tree/master/0048-rotate-image) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Prahasit/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Prahasit/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Prahasit/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/0098-validate-binary-search-tree) |
