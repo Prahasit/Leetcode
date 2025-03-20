@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1788-stone-game-vi](https://github.com/Prahasit/Leetcode/tree/master/1788-stone-game-vi) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Prahasit/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Prahasit/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [2047-find-a-peak-element-ii](https://github.com/Prahasit/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Prahasit/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prahasit/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2176-parallel-courses-iii](https://github.com/Prahasit/Leetcode/tree/master/2176-parallel-courses-iii) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Prahasit/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prahasit/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Prahasit/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [2047-find-a-peak-element-ii](https://github.com/Prahasit/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Prahasit/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Prahasit/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Hash Table
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prahasit/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Prahasit/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/Prahasit/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Prahasit/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/Prahasit/Leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
