@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prahasit/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2176-parallel-courses-iii](https://github.com/Prahasit/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prahasit/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Prahasit/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/Prahasit/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Prahasit/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2329-maximum-product-after-k-increments](https://github.com/Prahasit/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Prahasit/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2161-stock-price-fluctuation](https://github.com/Prahasit/Leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prahasit/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Prahasit/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Prahasit/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prahasit/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Prahasit/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/Prahasit/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Prahasit/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2187-vowels-of-all-substrings](https://github.com/Prahasit/Leetcode/tree/master/2187-vowels-of-all-substrings) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Prahasit/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Sorting
 |  |
 | ------- |
@@ -738,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/Prahasit/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Prahasit/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2176-parallel-courses-iii](https://github.com/Prahasit/Leetcode/tree/master/2176-parallel-courses-iii) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Prahasit/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Prahasit/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Prahasit/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2793-count-the-number-of-complete-components](https://github.com/Prahasit/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -753,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Prahasit/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/Prahasit/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2176-parallel-courses-iii](https://github.com/Prahasit/Leetcode/tree/master/2176-parallel-courses-iii) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Prahasit/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Prahasit/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Shortest Path
 |  |
