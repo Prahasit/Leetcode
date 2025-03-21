@@ -5,27 +5,26 @@ class Solution:
         result = []
         supply_set = set(supplies)
         recipe_queue = deque()
-        for i in range(len(recipes)):
-            recipe_queue.append(i)
-        last_size = - 1
+        adj_list = defaultdict(list)
+        indegree = [0] * n
+        recipe_to_index = {recipe: idx for idx, recipe in enumerate(recipes)}
+        for idx, ingredient_list in enumerate(ingredients):
+            for ingredient in ingredient_list:
+                if ingredient not in supply_set:
+                    indegree[idx] += 1
+                    adj_list[ingredient].append(recipes[idx])
 
-        while len(supply_set) > last_size:
-            last_size = len(supply_set)
-            queue_size = len(recipe_queue)
+        for idx, count in enumerate(indegree):
+            if count == 0:
+                recipe_queue.append(idx)
 
-            while queue_size > 0:
-                queue_size -= 1
-                idx = recipe_queue.popleft()
-                can_make = True
-                for ingredient in ingredients[idx]:
-                    if ingredient not in supply_set:
-                        can_make = False
-                        break
-                
-                if can_make:
-                    supply_set.add(recipes[idx])
-                    result.append(recipes[idx])
-                else:
-                    recipe_queue.append(idx)
+        while recipe_queue:
+            idx = recipe_queue.popleft()
+            recipe = recipes[idx]
+            result.append(recipe)
 
+            for nei in adj_list[recipe]:
+                indegree[recipe_to_index[nei]] -= 1
+                if indegree[recipe_to_index[nei]] == 0:
+                    recipe_queue.append(recipe_to_index[nei])
         return result
