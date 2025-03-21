@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1788-stone-game-vi](https://github.com/Prahasit/Leetcode/tree/master/1788-stone-game-vi) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Prahasit/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2187-vowels-of-all-substrings](https://github.com/Prahasit/Leetcode/tree/master/2187-vowels-of-all-substrings) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Prahasit/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prahasit/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search Tree
 |  |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Prahasit/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Prahasit/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Prahasit/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Prahasit/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/Prahasit/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Prahasit/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Prahasit/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Prahasit/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
