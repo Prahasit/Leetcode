@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Prahasit/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/Prahasit/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Prahasit/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0835-linked-list-components](https://github.com/Prahasit/Leetcode/tree/master/0835-linked-list-components) |
 | [0854-making-a-large-island](https://github.com/Prahasit/Leetcode/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/Prahasit/Leetcode/tree/master/0861-flipping-an-image) |
 | [0881-loud-and-rich](https://github.com/Prahasit/Leetcode/tree/master/0881-loud-and-rich) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Prahasit/Leetcode/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/Prahasit/Leetcode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/Prahasit/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0835-linked-list-components](https://github.com/Prahasit/Leetcode/tree/master/0835-linked-list-components) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prahasit/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prahasit/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prahasit/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Prahasit/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Prahasit/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Prahasit/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0835-linked-list-components](https://github.com/Prahasit/Leetcode/tree/master/0835-linked-list-components) |
 | [0838-design-linked-list](https://github.com/Prahasit/Leetcode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Prahasit/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/Prahasit/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
