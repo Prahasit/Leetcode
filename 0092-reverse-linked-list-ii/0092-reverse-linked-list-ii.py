@@ -21,7 +21,9 @@ class Solution:
             cur.next = prev
             prev = cur
             cur = temp
-
+        #over hear leftprev is at 1
+        # prev is at 4
+        #cur is at 5
         leftprev.next.next = cur
         leftprev.next = prev
 
