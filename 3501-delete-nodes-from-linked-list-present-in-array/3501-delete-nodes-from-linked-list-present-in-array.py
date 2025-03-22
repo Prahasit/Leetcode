@@ -5,17 +5,18 @@
 #         self.next = next
 class Solution:
     def modifiedList(self, nums: List[int], head: Optional[ListNode]) -> Optional[ListNode]:
-        nums_set = set(nums)
-        dummy = ListNode()
-        prev = dummy
+        dummy = ListNode(0)
         cur = head
+        dummy.next = cur
+        prev = dummy
+        nums = set(nums)
+
         while cur:
-            if cur.val in nums_set:
+            if cur.val in nums:
+                prev.next = cur.next
                 cur = cur.next
             else:
-                node = ListNode(cur.val)
-                prev.next = node
-                prev = prev.next
+                prev = cur
                 cur = cur.next
 
         return dummy.next
