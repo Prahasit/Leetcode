@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/Prahasit/Leetcode/tree/master/3226-minimum-number-game) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Prahasit/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Prahasit/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Prahasit/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prahasit/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3779-eat-pizzas](https://github.com/Prahasit/Leetcode/tree/master/3779-eat-pizzas) |
 ## Depth-First Search
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prahasit/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Prahasit/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Prahasit/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Prahasit/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-remove-nodes-from-linked-list](https://github.com/Prahasit/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Prahasit/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Prahasit/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Prahasit/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
 | ------- |
