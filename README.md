@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Prahasit/Leetcode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/Prahasit/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Prahasit/Leetcode/tree/master/0695-max-area-of-island) |
+| [0739-daily-temperatures](https://github.com/Prahasit/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Prahasit/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/Prahasit/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Prahasit/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Prahasit/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/Prahasit/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/Prahasit/Leetcode/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Prahasit/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Prahasit/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Prahasit/Leetcode/tree/master/0933-increasing-order-search-tree) |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Prahasit/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Prahasit/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/Prahasit/Leetcode/tree/master/0739-daily-temperatures) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Prahasit/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Graph
 |  |
