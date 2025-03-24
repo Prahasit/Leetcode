@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Prahasit/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3226-minimum-number-game](https://github.com/Prahasit/Leetcode/tree/master/3226-minimum-number-game) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Prahasit/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3430-count-days-without-meetings](https://github.com/Prahasit/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Prahasit/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Prahasit/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prahasit/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3226-minimum-number-game](https://github.com/Prahasit/Leetcode/tree/master/3226-minimum-number-game) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Prahasit/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3430-count-days-without-meetings](https://github.com/Prahasit/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3779-eat-pizzas](https://github.com/Prahasit/Leetcode/tree/master/3779-eat-pizzas) |
 ## Heap (Priority Queue)
 |  |
