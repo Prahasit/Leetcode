@@ -1,18 +1,28 @@
 class Solution:
     def maxWeight(self, pizzas: List[int]) -> int:
-        #odd takes largest element, even takes 2nd largest element.
-        #so first calculating odd first
-        weight = 0
-        days = len(pizzas)//4
-        pizzas.sort()
-        r = len(pizzas) - 1
-        for i in range(1, days + 1, 2):
-            weight += pizzas[r] #largest
+        n = len(pizzas)
+        total_sum = 0
+        days = n // 4
+        even_days  = days // 2
+        odd_days = days - even_days
+
+        temp = [val for i, val in enumerate(pizzas)]
+        sorted_pizza = sorted(temp)
+        print(sorted_pizza)
+        print(odd_days)
+        print(even_days)
+        l, r  = 0, n - 1
+        while odd_days > 0:
+            total_sum += sorted_pizza[r]
+            
+            l += 3
             r -= 1
-        
-        for i in range(2, days + 1, 2 ):
-            weight += pizzas[r - 1] #second largest
+            odd_days -= 1
+ 
+        while even_days > 0:
+            total_sum += sorted_pizza[r - 1]
+            l += 2
             r -= 2
-        return weight
-
-
+            even_days -= 1
+        
+        return total_sum
