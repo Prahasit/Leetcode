@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Prahasit/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prahasit/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prahasit/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0456-132-pattern](https://github.com/Prahasit/Leetcode/tree/master/0456-132-pattern) |
 | [0472-concatenated-words](https://github.com/Prahasit/Leetcode/tree/master/0472-concatenated-words) |
 | [0491-non-decreasing-subsequences](https://github.com/Prahasit/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0503-next-greater-element-ii](https://github.com/Prahasit/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Prahasit/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prahasit/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Prahasit/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0456-132-pattern](https://github.com/Prahasit/Leetcode/tree/master/0456-132-pattern) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Prahasit/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0794-swim-in-rising-water](https://github.com/Prahasit/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Prahasit/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Prahasit/Leetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Prahasit/Leetcode/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/Prahasit/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/Prahasit/Leetcode/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Prahasit/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/Prahasit/Leetcode/tree/master/0735-asteroid-collision) |
@@ -761,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prahasit/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/Prahasit/Leetcode/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Prahasit/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Prahasit/Leetcode/tree/master/0739-daily-temperatures) |
@@ -852,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Prahasit/Leetcode/tree/master/0456-132-pattern) |
 | [2161-stock-price-fluctuation](https://github.com/Prahasit/Leetcode/tree/master/2161-stock-price-fluctuation) |
 ## Bit Manipulation
 |  |
