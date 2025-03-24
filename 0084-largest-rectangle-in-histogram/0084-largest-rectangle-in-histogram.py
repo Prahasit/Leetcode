@@ -1,39 +1,27 @@
 class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
-        #for every index basically need to find out PSE and NSE and answer is between it. calcuate liek this for element
+        # if the element is smaller than the top of the stack, then pop it and then we can find pse and nse for that easily using one pass.
+        # as first pop it and for thaat elemnt, nse is the the one occured as we only pop if the element < top of stack
+        # we can find pse as it is next top of stack as we only add to stack if the elements are greater so we will get pse form it
 
         n = len(heights)
-        stack1, stack2 = [], []
-        pse = [-1] * n
-        nse = [-1] * n
-
-        # finding previous smaller element
+        stack = []
+        max_area = 0
         for i in range(n):
-            while stack1 and heights[i] <= heights[stack1[-1]]:
-                stack1.pop()
-            
-            if stack1:
-                pse[i] = stack1[-1]
-            else:
-                pse[i] = - 1
+            while stack and heights[i] < heights[stack[-1]]:
+                index = stack.pop()
+                nse = i
+                pse = stack[-1] if stack else - 1
+                max_area = max(max_area, heights[index] * (nse - pse - 1))
 
-            stack1.append(i)
+            stack.append(i)
+        
+        # we need to look at remaining elementsin stack.
+        while stack:
+            nse = n # as if eleements are there in stack it means there is no nse for that element
+            index = stack.pop()
+            pse = stack[-1] if stack else -1
+            max_area = max(max_area, heights[index] * (nse - pse - 1))
+        
+        return max_area
 
-        # finding next smaller element
-        for i in range(n - 1, - 1, -1):
-            while stack2 and heights[i] <= heights[stack2[-1]]:
-                stack2.pop()
-            if stack2:
-                nse[i] = stack2[-1]
-            else:
-                nse[i] = n
-            
-            stack2.append(i)
-
-        print(pse)
-        print(nse)
-        result = 0
-        for i in range(n):
-            result = max(result, heights[i] * (nse[i] - pse[i] - 1))
-            print(result)
-        return result
