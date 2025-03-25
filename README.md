@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Prahasit/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0503-next-greater-element-ii](https://github.com/Prahasit/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Prahasit/Leetcode/tree/master/0506-relative-ranks) |
+| [0643-maximum-average-subarray-i](https://github.com/Prahasit/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Prahasit/Leetcode/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/Prahasit/Leetcode/tree/master/0690-employee-importance) |
@@ -943,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Prahasit/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Prahasit/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Prahasit/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Merge Sort
