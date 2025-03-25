@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/Prahasit/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Prahasit/Leetcode/tree/master/1036-rotting-oranges) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/Prahasit/Leetcode/tree/master/1042-minimum-cost-to-merge-stones) |
+| [1046-max-consecutive-ones-iii](https://github.com/Prahasit/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/Prahasit/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/Prahasit/Leetcode/tree/master/1104-coloring-a-border) |
 | [1105-uncrossed-lines](https://github.com/Prahasit/Leetcode/tree/master/1105-uncrossed-lines) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1042-minimum-cost-to-merge-stones](https://github.com/Prahasit/Leetcode/tree/master/1042-minimum-cost-to-merge-stones) |
+| [1046-max-consecutive-ones-iii](https://github.com/Prahasit/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/Prahasit/Leetcode/tree/master/1184-car-pooling) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Prahasit/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Prahasit/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/Prahasit/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0907-koko-eating-bananas](https://github.com/Prahasit/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0933-increasing-order-search-tree](https://github.com/Prahasit/Leetcode/tree/master/0933-increasing-order-search-tree) |
+| [1046-max-consecutive-ones-iii](https://github.com/Prahasit/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Prahasit/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Prahasit/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -945,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Prahasit/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/Prahasit/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Prahasit/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Prahasit/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Merge Sort
