@@ -9,14 +9,14 @@ class Solution:
         while r < n:
             if nums[r] == 0:
                 zeroes += 1
-            if zeroes > k:
+            while zeroes > k:
                 if nums[l] == 0:
                     zeroes -= 1
                     l += 1
                 else:
                     l += 1
 
-            else:
+            if zeroes <= k:
                 maxlen = max(maxlen, r - l + 1)
 
             r += 1
