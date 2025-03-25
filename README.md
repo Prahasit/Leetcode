@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Prahasit/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prahasit/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prahasit/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prahasit/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Prahasit/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Prahasit/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Prahasit/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Prahasit/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/Prahasit/Leetcode/tree/master/1184-car-pooling) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Prahasit/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prahasit/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Prahasit/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Prahasit/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
@@ -953,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Prahasit/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prahasit/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Prahasit/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prahasit/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Prahasit/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Merge Sort
 |  |
