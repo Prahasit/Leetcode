@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Prahasit/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/Prahasit/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0508-most-frequent-subtree-sum](https://github.com/Prahasit/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
+| [0567-permutation-in-string](https://github.com/Prahasit/Leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Prahasit/Leetcode/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/Prahasit/Leetcode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/Prahasit/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Prahasit/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/Prahasit/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/Prahasit/Leetcode/tree/master/0472-concatenated-words) |
+| [0567-permutation-in-string](https://github.com/Prahasit/Leetcode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Prahasit/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0800-letter-case-permutation](https://github.com/Prahasit/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0974-reorder-data-in-log-files](https://github.com/Prahasit/Leetcode/tree/master/0974-reorder-data-in-log-files) |
@@ -875,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Prahasit/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Prahasit/Leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prahasit/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/Prahasit/Leetcode/tree/master/0567-permutation-in-string) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Prahasit/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0861-flipping-an-image](https://github.com/Prahasit/Leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Prahasit/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -966,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Prahasit/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prahasit/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Prahasit/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Prahasit/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prahasit/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prahasit/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
