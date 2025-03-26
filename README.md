@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/Prahasit/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Prahasit/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Prahasit/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/Prahasit/Leetcode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prahasit/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3779-eat-pizzas](https://github.com/Prahasit/Leetcode/tree/master/3779-eat-pizzas) |
 ## Depth-First Search
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/Prahasit/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Prahasit/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Prahasit/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/Prahasit/Leetcode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Backtracking
 |  |
 | ------- |
