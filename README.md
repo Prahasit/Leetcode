@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prahasit/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Prahasit/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Prahasit/Leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Prahasit/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Prahasit/Leetcode/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Prahasit/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Prahasit/Leetcode/tree/master/0217-contains-duplicate) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Prahasit/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Prahasit/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Prahasit/Leetcode/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/Prahasit/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Prahasit/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Prahasit/Leetcode/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/Prahasit/Leetcode/tree/master/0139-word-break) |
@@ -967,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Prahasit/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prahasit/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prahasit/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Prahasit/Leetcode/tree/master/0567-permutation-in-string) |
