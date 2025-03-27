@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Prahasit/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/Prahasit/Leetcode/tree/master/0881-loud-and-rich) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prahasit/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0922-possible-bipartition](https://github.com/Prahasit/Leetcode/tree/master/0922-possible-bipartition) |
 | [0933-increasing-order-search-tree](https://github.com/Prahasit/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0971-shortest-bridge](https://github.com/Prahasit/Leetcode/tree/master/0971-shortest-bridge) |
 | [1005-univalued-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1005-univalued-binary-tree) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Prahasit/Leetcode/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/Prahasit/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prahasit/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0922-possible-bipartition](https://github.com/Prahasit/Leetcode/tree/master/0922-possible-bipartition) |
 | [0971-shortest-bridge](https://github.com/Prahasit/Leetcode/tree/master/0971-shortest-bridge) |
 | [1005-univalued-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1035-cousins-in-binary-tree) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Prahasit/Leetcode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/Prahasit/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Prahasit/Leetcode/tree/master/0854-making-a-large-island) |
+| [0922-possible-bipartition](https://github.com/Prahasit/Leetcode/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/Prahasit/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Prahasit/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Prahasit/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -851,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Prahasit/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Prahasit/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/Prahasit/Leetcode/tree/master/0881-loud-and-rich) |
+| [0922-possible-bipartition](https://github.com/Prahasit/Leetcode/tree/master/0922-possible-bipartition) |
 | [1325-path-with-maximum-probability](https://github.com/Prahasit/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Prahasit/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1493-frog-position-after-t-seconds](https://github.com/Prahasit/Leetcode/tree/master/1493-frog-position-after-t-seconds) |
