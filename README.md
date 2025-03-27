@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/Prahasit/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Prahasit/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Prahasit/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Prahasit/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Prahasit/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Prahasit/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Prahasit/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Prahasit/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prahasit/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Prahasit/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Prahasit/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Prahasit/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prahasit/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Prahasit/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prahasit/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2636-maximum-subsequence-score](https://github.com/Prahasit/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Prahasit/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3226-minimum-number-game](https://github.com/Prahasit/Leetcode/tree/master/3226-minimum-number-game) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Prahasit/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3430-count-days-without-meetings](https://github.com/Prahasit/Leetcode/tree/master/3430-count-days-without-meetings) |
