@@ -5,21 +5,25 @@ class Solution:
         visit = set()
         directions = [[0,1], [1,0], [-1, 0], [0, - 1]]
         visit.add((sr,sc))
-        q.append((sr,sc))
-
         temp = image[sr][sc]
-        while q: # need to level wise
-            for _ in range(len(q)):
-                r, c = q.popleft()
-                image[r][c] = color
-                for dr,dc in directions:
-                    row, col = dr+r, dc +c
-                    if 0<= row < m and 0<= col < n and image[row][col] == temp:
-                        if (row, col) not in visit:
-                            q.append((row, col))
-                            visit.add((row, col))
+        
+        if temp == color:
+            return  image
+        def dfs(r, c):
+            if r < 0 or c < 0 or r >= m or c >= n or image[r][c] != temp:
+                return
+            
+            image[r][c] = color
 
-        return image
-                            
+            dfs(r - 1, c)
+            dfs(r + 1, c)
+            dfs(r, c - 1)
+            dfs(r, c + 1)
+            
+    
+
+        dfs(sr, sc)
+
+        return image     
 
 
