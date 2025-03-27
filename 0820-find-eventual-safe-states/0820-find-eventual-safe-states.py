@@ -1,37 +1,32 @@
 class Solution:
     def eventualSafeNodes(self, graph: List[List[int]]) -> List[int]:
+        #reverse the adjacenct lit nad apply toposort.
+        # as instad of finding the terminal nodes. if we can start from terminal nodes, it is easy
+
         n = len(graph)
-        visit = [0] * n
-        path_vis = [0] * n
-        check = [0] * n
-
-        def dfs(node):
-            visit[node] = 1
-            path_vis[node] = 1
-            check[node] = 0
-
-            for nei in graph[node]:
-                if visit[nei] == 0:
-                    if dfs(nei):
-                        return True
-                elif path_vis[nei] == 1:
-                    return True
-
-            path_vis[node] = 0
-            check[node] = 1
-            return False
-
-
-
+        indegree = [0] * n
+        reverse_list = defaultdict(list)
+        res = []
 
         for i in range(n):
-            if visit[i] == 0:
-                dfs(i)
-        result = []
+            for nei in graph[i]:
+                reverse_list[nei].append(i)
+                indegree[i] += 1
+                
+        # now apply toposort
+        q = deque()
         for i in range(n):
-            if check[i] == 1:
-                result.append(i)
-        
-        return result
+            if indegree[i] == 0:
+                q.append(i)
+
+        while q:
+            node = q.popleft()
+            res.append(node)
             
-            
+            for nei in reverse_list[node]:
+                indegree[nei] -= 1
+                if indegree[nei] == 0:
+                    q.append(nei)
+
+        res.sort()
+        return res
