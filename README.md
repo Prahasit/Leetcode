@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Prahasit/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prahasit/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Prahasit/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prahasit/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prahasit/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Prahasit/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Prahasit/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-reorder-data-in-log-files](https://github.com/Prahasit/Leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Prahasit/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Prahasit/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prahasit/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prahasit/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Prahasit/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2187-vowels-of-all-substrings](https://github.com/Prahasit/Leetcode/tree/master/2187-vowels-of-all-substrings) |
@@ -1005,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/Prahasit/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prahasit/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Prahasit/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prahasit/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prahasit/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prahasit/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Prahasit/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
