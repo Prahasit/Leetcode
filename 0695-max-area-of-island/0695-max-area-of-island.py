@@ -1,35 +1,33 @@
 class Solution:
     def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
 
-        def solve(r, c):
-            q = deque()
-            q.append((r,c))
+        def dfs(r, c):
+            if r < 0 or c < 0 or  r >= m or c >= n or grid[r][c] == 0:
+                return  0
+            if (r,c) in visit:
+                return  0
             visit.add((r,c))
-            length = 0
-            while q:
-                row, col = q.popleft()
-                length += 1
-                for dr, dc in directions:
-                    new_r, new_c = dr + row, dc + col
-                    if 0 <= new_r < m and 0 <= new_c < n and grid[new_r][new_c] == 1:
-                        if (new_r, new_c) not in visit:
-                            q.append((new_r, new_c))
-                            visit.add((new_r, new_c))
-                            
+
+            length = 1
+            length += dfs(r - 1, c)
+            length += dfs(r + 1, c)
+            length += dfs(r, c - 1)
+            length += dfs(r, c + 1)
+
             return length
 
 
         m, n = len(grid), len(grid[0])
         visit = set()
-        directions = [[0,1],[0, - 1], [1, 0], [-1, 0]]
-        res = 0
+        max_area = 0
         for i in range(m):
             for j in range(n):
                 if (i, j) not in visit and grid[i][j] == 1:
-                    count = solve(i, j)
-                    res = max(count, res)
-        
-        return res
+                    max_area = max(max_area, dfs(i, j))
+
+        return max_area
+
+
 
 
         
