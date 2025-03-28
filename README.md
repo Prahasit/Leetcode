@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prahasit/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3226-minimum-number-game](https://github.com/Prahasit/Leetcode/tree/master/3226-minimum-number-game) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Prahasit/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3264-maximum-points-after-enemy-battles](https://github.com/Prahasit/Leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3430-count-days-without-meetings](https://github.com/Prahasit/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Prahasit/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Prahasit/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/Prahasit/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Prahasit/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Prahasit/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3264-maximum-points-after-enemy-battles](https://github.com/Prahasit/Leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3779-eat-pizzas](https://github.com/Prahasit/Leetcode/tree/master/3779-eat-pizzas) |
 ## Design
 |  |
