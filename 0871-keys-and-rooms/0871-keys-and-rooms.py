@@ -1,15 +1,27 @@
 class Solution:
     def canVisitAllRooms(self, rooms: List[List[int]]) -> bool:
-        #start from 0 as it's unlocked
-        def dfs(node):
-            visit.add(node)
-            for nei in rooms[node]:
-                if nei not in visit:
-                    visit.add(nei)
-                    dfs(nei)
-
-
+        #similar to course schedule
+        n = len(rooms)
+        adj_list = defaultdict(list)
+        indegree = [0] * n
+        for i in range(n):
+            for keys in rooms[i]:
+                adj_list[i].append(keys)
+                indegree[keys] += 1
+        
+        q = deque()
         visit = set()
-        dfs(0)
-        #now we need to check if all the rooms are there in visit. if not then one or more rooms is unreacheable so cannot be unlocked to FALSE
-        return len(rooms) == len(visit)
+        visit.add(0)
+        q.append((0))
+        
+        while q:
+            room = q.popleft()
+            
+
+            for adj_room in adj_list[room]:
+                if adj_room not in visit:
+                    visit.add(adj_room)
+                    q.append(adj_room)
+
+
+        return n == len(visit)
