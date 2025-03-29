@@ -1,17 +1,20 @@
 class Solution:
     def allPathsSourceTarget(self, graph: List[List[int]]) -> List[List[int]]:
-        # source = 0, destination = n - 1
-        result = []
-        temp = []
+        
         def dfs(node):
-            if node == len(graph) - 1:
-                result.append(temp[:])
             
+            if node == n - 1:
+                result.append(l[:])
             for nei in graph[node]:
-                temp.append(nei)
+                l.append(nei)
                 dfs(nei)
-                temp.pop()
+                l.pop()
 
-        temp.append(0)
+            
+
+        n = len(graph)
+        l = []
+        l.append(0)
+        result = []
         dfs(0)
         return result
