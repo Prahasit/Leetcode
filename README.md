@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Prahasit/Leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Prahasit/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Prahasit/Leetcode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Prahasit/Leetcode/tree/master/0744-network-delay-time) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Prahasit/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Prahasit/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0794-swim-in-rising-water](https://github.com/Prahasit/Leetcode/tree/master/0794-swim-in-rising-water) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Prahasit/Leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Prahasit/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Prahasit/Leetcode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Prahasit/Leetcode/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Prahasit/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0794-swim-in-rising-water](https://github.com/Prahasit/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0813-all-paths-from-source-to-target](https://github.com/Prahasit/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Prahasit/Leetcode/tree/master/0506-relative-ranks) |
 | [0630-course-schedule-iii](https://github.com/Prahasit/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/Prahasit/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0744-network-delay-time](https://github.com/Prahasit/Leetcode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Prahasit/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Prahasit/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1014-k-closest-points-to-origin](https://github.com/Prahasit/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -877,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Prahasit/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Prahasit/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/Prahasit/Leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0744-network-delay-time](https://github.com/Prahasit/Leetcode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/Prahasit/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Prahasit/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Prahasit/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -912,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Prahasit/Leetcode/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/Prahasit/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Prahasit/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/Prahasit/Leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
