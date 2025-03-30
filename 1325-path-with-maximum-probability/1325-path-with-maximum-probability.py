@@ -1,22 +1,25 @@
 class Solution:
     def maxProbability(self, n: int, edges: List[List[int]], succProb: List[float], start_node: int, end_node: int) -> float:
-        adj = [[] for _ in range(n)]
-        for i in range(len(edges)):
-            src, dst = edges[i]
-            adj[src].append((dst, succProb[i]))
-            adj[dst].append((src, succProb[i]))
+        adj_list = defaultdict(list)
+        for i, (src, dst) in enumerate(edges):
+            adj_list[src].append((dst, succProb[i]))
+            adj_list[dst].append((src, succProb[i]))
 
-        maxProb = [0.0] * n
-        maxProb[start_node] = 1.0
-        q = deque([start_node])
+        prob = [0.0] * n
+        prob[start_node] = 1
+        q = deque()
+        q.append((start_node, prob[start_node])) # node, probability
 
         while q:
-            node = q.popleft()
+            node, cur_prob = q.popleft()
+            
+            for nei, p in adj_list[node]:
+                if cur_prob * p  > prob[nei]:
+                    prob[nei] = cur_prob * p
+                    q.append((nei, prob[nei]))
 
-            for nei, edge_prob in adj[node]:
-                new_prob = maxProb[node] * edge_prob
-                if new_prob > maxProb[nei]:  
-                    maxProb[nei] = new_prob
-                    q.append(nei)
+        return prob[end_node]
+            
 
-        return maxProb[end_node]
+
+            
