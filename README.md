@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Prahasit/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prahasit/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Prahasit/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/Prahasit/Leetcode/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/Prahasit/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prahasit/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prahasit/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Prahasit/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/Prahasit/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0365-water-and-jug-problem](https://github.com/Prahasit/Leetcode/tree/master/0365-water-and-jug-problem) |
+| [0399-evaluate-division](https://github.com/Prahasit/Leetcode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Prahasit/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Prahasit/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0472-concatenated-words](https://github.com/Prahasit/Leetcode/tree/master/0472-concatenated-words) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Prahasit/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Prahasit/Leetcode/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/Prahasit/Leetcode/tree/master/0365-water-and-jug-problem) |
+| [0399-evaluate-division](https://github.com/Prahasit/Leetcode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Prahasit/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Prahasit/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Prahasit/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Prahasit/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Prahasit/Leetcode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Prahasit/Leetcode/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/Prahasit/Leetcode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/Prahasit/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Prahasit/Leetcode/tree/master/0854-making-a-large-island) |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Prahasit/Leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Prahasit/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Prahasit/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0399-evaluate-division](https://github.com/Prahasit/Leetcode/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Prahasit/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prahasit/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Prahasit/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -903,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Prahasit/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Prahasit/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/Prahasit/Leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/Prahasit/Leetcode/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/Prahasit/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Prahasit/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Prahasit/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
@@ -948,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Prahasit/Leetcode/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/Prahasit/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Prahasit/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Prahasit/Leetcode/tree/master/1325-path-with-maximum-probability) |
