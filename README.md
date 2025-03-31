@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Prahasit/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Prahasit/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Prahasit/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Prahasit/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2161-stock-price-fluctuation](https://github.com/Prahasit/Leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prahasit/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Prahasit/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Prahasit/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Prahasit/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1708-design-parking-system](https://github.com/Prahasit/Leetcode/tree/master/1708-design-parking-system) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Prahasit/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Prahasit/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Prahasit/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Greedy
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-best-team-with-no-conflicts](https://github.com/Prahasit/Leetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [1761-count-sorted-vowel-strings](https://github.com/Prahasit/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Prahasit/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Prahasit/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/Prahasit/Leetcode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Prahasit/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/Prahasit/Leetcode/tree/master/2176-parallel-courses-iii) |
@@ -899,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-frog-position-after-t-seconds](https://github.com/Prahasit/Leetcode/tree/master/1493-frog-position-after-t-seconds) |
 | [1558-course-schedule-iv](https://github.com/Prahasit/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Prahasit/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Prahasit/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/Prahasit/Leetcode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Prahasit/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Prahasit/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -919,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/Prahasit/Leetcode/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Prahasit/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/Prahasit/Leetcode/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Prahasit/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Prahasit/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/Prahasit/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Prahasit/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1012,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Prahasit/Leetcode/tree/master/0139-word-break) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/Prahasit/Leetcode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Prahasit/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
