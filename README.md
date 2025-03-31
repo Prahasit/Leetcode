@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Prahasit/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/Prahasit/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Prahasit/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Prahasit/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Prahasit/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Prahasit/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Prahasit/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Prahasit/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Prahasit/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Prahasit/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Prahasit/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Prahasit/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Prahasit/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/Prahasit/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Prahasit/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Prahasit/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Prahasit/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Prahasit/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Prahasit/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Prahasit/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/Prahasit/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Prahasit/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Prahasit/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Prahasit/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3226-minimum-number-game](https://github.com/Prahasit/Leetcode/tree/master/3226-minimum-number-game) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Prahasit/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
@@ -916,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Prahasit/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Prahasit/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Prahasit/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Prahasit/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Prahasit/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Prahasit/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Prahasit/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -943,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Prahasit/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Prahasit/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Prahasit/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Prahasit/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Prahasit/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Prahasit/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/Prahasit/Leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
