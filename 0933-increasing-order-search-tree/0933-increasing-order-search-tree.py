@@ -7,16 +7,18 @@
 class Solution:
     def increasingBST(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         root_node = TreeNode()
-        new_tree = root_node
-        def dfs(node):
+        new_node = root_node
+
+        def solve(node):
             nonlocal root_node
             if node is None:
                 return
+            solve(node.left)
 
-            dfs(node.left)
             root_node.right = TreeNode(node.val)
             root_node = root_node.right
-            dfs(node.right)
 
-        dfs(root)
-        return new_tree.right
+            solve(node.right)
+
+        solve(root)
+        return new_node.right
