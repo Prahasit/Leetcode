@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Prahasit/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Prahasit/Leetcode/tree/master/0563-binary-tree-tilt) |
+| [0606-construct-string-from-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Prahasit/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Prahasit/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Prahasit/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/Prahasit/Leetcode/tree/master/0472-concatenated-words) |
 | [0567-permutation-in-string](https://github.com/Prahasit/Leetcode/tree/master/0567-permutation-in-string) |
+| [0606-construct-string-from-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/Prahasit/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0800-letter-case-permutation](https://github.com/Prahasit/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0974-reorder-data-in-log-files](https://github.com/Prahasit/Leetcode/tree/master/0974-reorder-data-in-log-files) |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Prahasit/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Prahasit/Leetcode/tree/master/0563-binary-tree-tilt) |
+| [0606-construct-string-from-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Prahasit/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Prahasit/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -817,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Prahasit/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Prahasit/Leetcode/tree/master/0563-binary-tree-tilt) |
+| [0606-construct-string-from-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Prahasit/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Prahasit/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
