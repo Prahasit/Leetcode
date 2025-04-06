@@ -8,19 +8,16 @@ class Node:
 
 class Solution:
     def preorder(self, root: 'Node') -> List[int]:
-        result = []
-        def dfs(node):
+        res = []
+        def solve(node):
             if node is None:
                 return
-            result.append(node.val)
+            
+            res.append(node.val)
+            
             for i in node.children:
-                dfs(i)
-        dfs(root)
-
-        return result
+                solve(i)
         
+        solve(root)
 
-
-        
-
-        
+        return res
