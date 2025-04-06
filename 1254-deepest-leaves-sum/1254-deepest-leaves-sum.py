@@ -6,22 +6,22 @@
 #         self.right = right
 class Solution:
     def deepestLeavesSum(self, root: Optional[TreeNode]) -> int:
-        deepestLevel = 0
-        currSum = 0
+        leaves_sum = 0
+        q = deque()
+        q.append(root)
 
-        def dfs(root,level):
-            nonlocal deepestLevel,currSum
-            if not root:
-                return 
+        while q:
+            level_sum = 0
+            for _ in range(len(q)):
+                node = q.popleft()
 
-            if level==deepestLevel:
-                currSum+=root.val
-            elif level>deepestLevel:
-                deepestLevel = level
-                currSum = root.val
-            
-            dfs(root.left,level+1)
-            dfs(root.right,level+1)
+                level_sum += node.val
 
-        dfs(root,0)
-        return currSum
+                if node.left:
+                    q.append(node.left)
+                if node.right:
+                    q.append(node.right)
+
+            leaves_sum = level_sum
+
+        return leaves_sum
