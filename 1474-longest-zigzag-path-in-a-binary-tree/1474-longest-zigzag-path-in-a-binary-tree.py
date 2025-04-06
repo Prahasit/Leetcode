@@ -6,22 +6,21 @@
 #         self.right = right
 class Solution:
     def longestZigZag(self, root: Optional[TreeNode]) -> int:
-        #taking left = 0 and right = 0
-        result = 0
-        def dfs(node, prev, steps):
-            nonlocal result
-            if node is None:
-                return None
+        
+        max_len = 0
+        def dfs(node, goleft, steps):
+            nonlocal max_len
+            
+            if node:
+                max_len = max(max_len, steps)
 
-            result = max(result, steps)
+                if goleft:
+                    dfs(node.left, False, steps + 1)
+                    dfs(node.right, True, 1)
+                else:
+                    dfs(node.left, False, 1)
+                    dfs(node.right, True, steps + 1)
 
-            if prev == 0: 
-                dfs(node.right, 1, steps + 1)
-                dfs(node.left, 0, 1) #starting new path
+        dfs(root, True, 0)
 
-            else:
-                dfs(node.left, 0, steps + 1)
-                dfs(node.right, 1, 1) #starting new path
-
-        dfs(root, 0, 0)
-        return result
+        return max_len
