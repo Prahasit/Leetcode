@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/Prahasit/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1380-number-of-closed-islands](https://github.com/Prahasit/Leetcode/tree/master/1380-number-of-closed-islands) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Prahasit/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Prahasit/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Prahasit/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prahasit/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/Prahasit/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1380-number-of-closed-islands](https://github.com/Prahasit/Leetcode/tree/master/1380-number-of-closed-islands) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Prahasit/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Prahasit/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Prahasit/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prahasit/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Prahasit/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prahasit/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Prahasit/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prahasit/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prahasit/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Prahasit/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0838-design-linked-list](https://github.com/Prahasit/Leetcode/tree/master/0838-design-linked-list) |
 | [0937-online-stock-span](https://github.com/Prahasit/Leetcode/tree/master/0937-online-stock-span) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1708-design-parking-system](https://github.com/Prahasit/Leetcode/tree/master/1708-design-parking-system) |
 | [1955-seat-reservation-manager](https://github.com/Prahasit/Leetcode/tree/master/1955-seat-reservation-manager) |
 | [2161-stock-price-fluctuation](https://github.com/Prahasit/Leetcode/tree/master/2161-stock-price-fluctuation) |
@@ -760,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prahasit/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/Prahasit/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Prahasit/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -840,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prahasit/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/Prahasit/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Prahasit/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
