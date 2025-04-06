@@ -8,14 +8,16 @@ class Node:
 
 class Solution:
     def postorder(self, root: 'Node') -> List[int]:
-        result = []
-        def dfs(node):
+        res = []
+        def solve(node):
             if node is None:
                 return
+            
             for i in node.children:
-                dfs(i)
-            result.append(node.val)
-        dfs(root)
-
-        return result
+                solve(i)
+            
+            res.append(node.val)
         
+        solve(root)
+
+        return res
