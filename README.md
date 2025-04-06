@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Prahasit/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Prahasit/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/Prahasit/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0365-water-and-jug-problem](https://github.com/Prahasit/Leetcode/tree/master/0365-water-and-jug-problem) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Prahasit/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Prahasit/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Prahasit/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Prahasit/Leetcode/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/Prahasit/Leetcode/tree/master/0365-water-and-jug-problem) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Prahasit/Leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Prahasit/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Prahasit/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/Prahasit/Leetcode/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Prahasit/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prahasit/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Prahasit/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Prahasit/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Prahasit/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0838-design-linked-list](https://github.com/Prahasit/Leetcode/tree/master/0838-design-linked-list) |
@@ -726,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Prahasit/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Prahasit/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Prahasit/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -813,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Prahasit/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Prahasit/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Prahasit/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
