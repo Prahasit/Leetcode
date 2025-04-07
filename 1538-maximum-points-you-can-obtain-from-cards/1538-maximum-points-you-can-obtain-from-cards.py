@@ -1,19 +1,17 @@
 class Solution:
     def maxScore(self, cardPoints: List[int], k: int) -> int:
-        # first take leftsum until k elements
-        # then slowly reduce left element and add right element
-        
         n = len(cardPoints)
-        leftsum = sum(cardPoints[:k]) # sum of k elements
-        max_points = leftsum
-        rightsum = 0
-        l, r = 0, n - 1
-        for l in range(k):
-            leftsum -= cardPoints[k - l - 1]
-            rightsum += cardPoints[r]
+        max_points = 0
+        left_sum = sum(cardPoints[:k])
+        right_sum = 0
 
-            r -= 1 
-            
-            max_points = max(max_points, leftsum + rightsum)
-            
+        max_points = max(max_points, left_sum)
+        
+        for i in range(k):
+            left_sum -= cardPoints[k - i - 1]
+            right_sum += cardPoints[n - i - 1]
+
+            max_points = max(max_points, left_sum + right_sum)
+
         return max_points
+        
