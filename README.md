@@ -1243,4 +1243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Prahasit/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Prahasit/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
