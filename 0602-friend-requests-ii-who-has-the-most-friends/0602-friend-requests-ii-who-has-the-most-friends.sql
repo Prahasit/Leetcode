@@ -1,10 +1,12 @@
 # Write your MySQL query statement below
-SELECT requester_id as id, sum(num) as num FROM
-    (
-        SELECT requester_id, count(*) as num FROM RequestAccepted GROUP BY requester_id
-        UNION ALL
-        SELECT accepter_id as requester_id, count(*) as num FROM RequestAccepted GROUP BY accepter_id
-    ) name
-GROUP BY requester_id
+WITH CTE as(
+    SELECT requester_id as id FROM RequestAccepted
+    UNION ALL
+    SELECT accepter_id as id FROM RequestAccepted
+)
+
+SELECT id, count(id) as num
+FROM CTE
+GROUP BY id
 ORDER BY num DESC
 LIMIT 1
