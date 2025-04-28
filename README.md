@@ -1267,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/Prahasit/Leetcode/tree/master/1258-article-views-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Prahasit/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Prahasit/Leetcode/tree/master/1390-average-selling-price) |
+| [1480-movie-rating](https://github.com/Prahasit/Leetcode/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Prahasit/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/Prahasit/Leetcode/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/Prahasit/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
