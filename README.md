@@ -889,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Prahasit/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0264-ugly-number-ii](https://github.com/Prahasit/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Prahasit/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Prahasit/Leetcode/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/Prahasit/Leetcode/tree/master/0343-integer-break) |
 | [0365-water-and-jug-problem](https://github.com/Prahasit/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Prahasit/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -1204,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Prahasit/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Prahasit/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Prahasit/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/Prahasit/Leetcode/tree/master/0326-power-of-three) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Prahasit/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Geometry
 |  |
