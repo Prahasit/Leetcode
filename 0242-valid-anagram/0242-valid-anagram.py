@@ -3,4 +3,7 @@ class Solution:
         freq_s = Counter(s)
         freq_t = Counter(t)
 
-        return freq_s == freq_t
+        if freq_s == freq_t:
+            return True
+        else:
+            return False
