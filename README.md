@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prahasit/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Prahasit/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prahasit/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Prahasit/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Prahasit/Leetcode/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/Prahasit/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Prahasit/Leetcode/tree/master/0139-word-break) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Prahasit/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Prahasit/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Prahasit/Leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Prahasit/Leetcode/tree/master/0399-evaluate-division) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Prahasit/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prahasit/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Prahasit/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Prahasit/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Prahasit/Leetcode/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Prahasit/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Prahasit/Leetcode/tree/master/0217-contains-duplicate) |
