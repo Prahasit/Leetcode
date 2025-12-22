@@ -1,18 +1,18 @@
 class Solution:
     def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
+        # same as next greater elememt
         n = len(temperatures)
-        result = [0] * n
-        stack = [] #ind
-        for i in range(n- 1, - 1, - 1):
-            while stack and temperatures[i] >= temperatures[stack[-1]]:
+        stack = []
+        res =[0] * n
+        for i in range(n - 1, -1, -1):
+            while stack and temperatures[stack[-1]] <= temperatures[i]:
                 stack.pop()
-                
-            if stack:
-                result[i] = stack[-1] - i
+
+            if not stack:
+                res[i] = 0
             else:
-                result[i] = 0
-            
+                res[i] = stack[-1] - i
 
             stack.append(i)
 
-        return result
+        return res
