@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Prahasit/Leetcode/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/Prahasit/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Prahasit/Leetcode/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Prahasit/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prahasit/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prahasit/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Prahasit/Leetcode/tree/master/0198-house-robber) |
@@ -897,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Prahasit/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Prahasit/Leetcode/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/Prahasit/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Prahasit/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0264-ugly-number-ii](https://github.com/Prahasit/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Prahasit/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Prahasit/Leetcode/tree/master/0326-power-of-three) |
@@ -1002,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Prahasit/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prahasit/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prahasit/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Prahasit/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Prahasit/Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Prahasit/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/Prahasit/Leetcode/tree/master/0402-remove-k-digits) |
