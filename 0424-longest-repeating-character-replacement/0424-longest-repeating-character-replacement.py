@@ -7,7 +7,7 @@ class Solution:
         while r < n:
             freq[s[r]] += 1
             
-            while (r - l + 1) - max(freq.values()) > k:
+            if (r - l + 1) - max(freq.values()) > k:
                 freq[s[l]] -= 1
                 l += 1
             
