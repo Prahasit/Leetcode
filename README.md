@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1117-as-far-from-land-as-possible](https://github.com/Prahasit/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Prahasit/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/Prahasit/Leetcode/tree/master/1184-car-pooling) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Prahasit/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1325-path-with-maximum-probability](https://github.com/Prahasit/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1331-path-with-maximum-gold](https://github.com/Prahasit/Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prahasit/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Prahasit/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prahasit/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Prahasit/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Prahasit/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prahasit/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1042-minimum-cost-to-merge-stones](https://github.com/Prahasit/Leetcode/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prahasit/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/Prahasit/Leetcode/tree/master/1184-car-pooling) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Prahasit/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Prahasit/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prahasit/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Prahasit/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -910,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Prahasit/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0897-prime-palindrome](https://github.com/Prahasit/Leetcode/tree/master/0897-prime-palindrome) |
 | [1014-k-closest-points-to-origin](https://github.com/Prahasit/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Prahasit/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prahasit/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1761-count-sorted-vowel-strings](https://github.com/Prahasit/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1788-stone-game-vi](https://github.com/Prahasit/Leetcode/tree/master/1788-stone-game-vi) |
@@ -1250,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Prahasit/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Prahasit/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prahasit/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Prahasit/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Prahasit/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prahasit/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Prahasit/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
