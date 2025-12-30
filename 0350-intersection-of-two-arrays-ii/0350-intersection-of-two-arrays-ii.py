@@ -1,11 +1,16 @@
 class Solution:
     def intersect(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        res= [ ]
-        freq1 = Counter(nums1)
-        
-        for i in nums2:
-            if i in freq1 and freq1[i] > 0:
-                res.append(i)
-                freq1[i] -= 1
+        if len(nums1) > len(nums2):
+            nums1, nums2 = nums2, nums1  # nums1 is shorter
+
+        freq = Counter(nums1)
+        res = []
+
+        for x in nums2:
+            if freq.get(x, 0) > 0:
+                res.append(x)
+                freq[x] -= 1
+                if freq[x] == 0:
+                    del freq[x]   # optional
 
         return res
