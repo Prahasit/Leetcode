@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Prahasit/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Prahasit/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prahasit/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/Prahasit/Leetcode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Prahasit/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prahasit/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prahasit/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Prahasit/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Prahasit/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Prahasit/Leetcode/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/Prahasit/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Prahasit/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Prahasit/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Prahasit/Leetcode/tree/master/0091-decode-ways) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prahasit/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Prahasit/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/Prahasit/Leetcode/tree/master/0068-text-justification) |
 | [0657-robot-return-to-origin](https://github.com/Prahasit/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Prahasit/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Prahasit/Leetcode/tree/master/0735-asteroid-collision) |
