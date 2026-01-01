@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Prahasit/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Prahasit/Leetcode/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/Prahasit/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Prahasit/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prahasit/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prahasit/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/Prahasit/Leetcode/tree/master/0456-132-pattern) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Prahasit/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prahasit/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prahasit/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/Prahasit/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Prahasit/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Prahasit/Leetcode/tree/master/0506-relative-ranks) |
 | [0630-course-schedule-iii](https://github.com/Prahasit/Leetcode/tree/master/0630-course-schedule-iii) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prahasit/Leetcode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Prahasit/Leetcode/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/Prahasit/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0630-course-schedule-iii](https://github.com/Prahasit/Leetcode/tree/master/0630-course-schedule-iii) |
 | [1285-balance-a-binary-search-tree](https://github.com/Prahasit/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Prahasit/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -715,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Prahasit/Leetcode/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/Prahasit/Leetcode/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/Prahasit/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Prahasit/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/Prahasit/Leetcode/tree/master/0472-concatenated-words) |
 | [0747-min-cost-climbing-stairs](https://github.com/Prahasit/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Prahasit/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
