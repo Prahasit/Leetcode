@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Prahasit/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Prahasit/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1788-stone-game-vi](https://github.com/Prahasit/Leetcode/tree/master/1788-stone-game-vi) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Prahasit/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Prahasit/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Prahasit/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/Prahasit/Leetcode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Prahasit/Leetcode/tree/master/0861-flipping-an-image) |
 | [1184-car-pooling](https://github.com/Prahasit/Leetcode/tree/master/1184-car-pooling) |
 | [1708-design-parking-system](https://github.com/Prahasit/Leetcode/tree/master/1708-design-parking-system) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Prahasit/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Prahasit/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Prahasit/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/Prahasit/Leetcode/tree/master/3226-minimum-number-game) |
@@ -965,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Prahasit/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1761-count-sorted-vowel-strings](https://github.com/Prahasit/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1788-stone-game-vi](https://github.com/Prahasit/Leetcode/tree/master/1788-stone-game-vi) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Prahasit/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Prahasit/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2187-vowels-of-all-substrings](https://github.com/Prahasit/Leetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Prahasit/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -1283,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Prahasit/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Prahasit/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Prahasit/Leetcode/tree/master/0326-power-of-three) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Prahasit/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Prahasit/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Geometry
 |  |
@@ -1291,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Prahasit/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Prahasit/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
 |  |
