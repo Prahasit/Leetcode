@@ -1,7 +1,7 @@
 class Solution:
     def minPathSum(self, grid: List[List[int]]) -> int:
         m, n = len(grid), len(grid[0])
-        dp =[[-1 for _ in range(n + 1)] for _ in range(m + 1)] 
+        dp =[[-1 for _ in range(n)] for _ in range(m)] 
         res = float('inf')
         def dfs(i, j):
             nonlocal res
@@ -19,4 +19,3 @@ class Solution:
             return dp[i][j]
 
         return dfs(m - 1, n - 1)
-        
