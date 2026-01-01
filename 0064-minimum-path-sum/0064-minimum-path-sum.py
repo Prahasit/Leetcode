@@ -1,24 +1,22 @@
 class Solution:
     def minPathSum(self, grid: List[List[int]]) -> int:
-        res = float('inf')
-        memo = {}
         m, n = len(grid), len(grid[0])
-
-        def solve(r, c):
+        dp =[[-1 for _ in range(n + 1)] for _ in range(m + 1)] 
+        res = float('inf')
+        def dfs(i, j):
             nonlocal res
-            if r == 0 and c == 0:
-                return grid[r][c]
-            if r < 0 or c < 0:
+            if i == 0 and j == 0:
+                return grid[0][0]
+            if i < 0 or j < 0:
                 return float('inf')
+            
+            if dp[i][j] != -1:
+                return dp[i][j]
+            up = dfs(i - 1, j)
+            left = dfs(i, j - 1)
+            
+            dp[i][j] = grid[i][j]+ min(up, left)
+            return dp[i][j]
 
-            if (r,c) in memo:
-                return memo[(r,c)]
-
-
-            up = solve(r - 1, c)
-            left = solve(r, c - 1)
-
-            memo[(r,c)] = grid[r][c] + min(up , left)
-            return memo[(r,c)]
-
-        return solve(m - 1, n - 1)
+        return dfs(m - 1, n - 1)
+        
