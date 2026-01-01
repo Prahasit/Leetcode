@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Prahasit/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Prahasit/Leetcode/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Prahasit/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Prahasit/Leetcode/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Prahasit/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/Prahasit/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prahasit/Leetcode/tree/master/0242-valid-anagram) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Prahasit/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Prahasit/Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Prahasit/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prahasit/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1035,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Prahasit/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Prahasit/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Prahasit/Leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Prahasit/Leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Prahasit/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Prahasit/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Prahasit/Leetcode/tree/master/0328-odd-even-linked-list) |
@@ -1382,4 +1385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-count-salary-categories](https://github.com/Prahasit/Leetcode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/Prahasit/Leetcode/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Prahasit/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Prahasit/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
